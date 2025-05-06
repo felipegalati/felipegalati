@@ -14,8 +14,7 @@
  
   <div align="center" >
 <a href="https://skillicons.dev"   >
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,go,css,html,
-    angular,cs,dotnet,php,py,sqlite,figma,linux" />
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,go,css,html,angular,cs,dotnet,php,py,sqlite,figma,linux" />
 </a>
   <br />
 
