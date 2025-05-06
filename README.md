@@ -3,7 +3,7 @@
 
 
 
-  ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
+  ![Status](./profile-3d-contrib/profile-green-animate.svg)
   
 
   
@@ -14,7 +14,7 @@
  
   <div align="center" >
 <a href="https://skillicons.dev"   >
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,go,css,html,angular,cs,dotnet,php,py,sqlite,figma,linux" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,go,py,cs,dotnet,linux,figma" />
 </a>
   <br />
 
